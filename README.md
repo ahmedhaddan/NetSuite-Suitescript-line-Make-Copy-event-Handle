@@ -11,6 +11,8 @@ If you found this helpful, please give the repository a star. It helps me to kee
 
 The `MakeCopyEventHandler` is a NetSuite client script designed to handle the "Make Copy" button click event. This script facilitates copying a line within a sublist and performing additional custom actions, such as clearing specific fields on the new line.
 
+![NetSuite Script Example](makecopy.jpg)
+
 ## Author
 
 Ahmed Haddan
