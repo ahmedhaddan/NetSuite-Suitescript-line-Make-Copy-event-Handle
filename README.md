@@ -1,6 +1,6 @@
 # NetSuite-Suitescript-line-Make-Copy-event-Handle
 
-## Give Us a Star! ⭐⭐⭐
+## Give me a Star! ⭐⭐⭐
 If you found this helpful, please give the repository a star. It helps us to keep working on more useful scripts.
 
 
@@ -35,5 +35,5 @@ To use the `MakeCopyEventHandler` script, follow these steps:
 
 The script initializes the "Make Copy" button with an `onclick` event handler during the `pageInit` function. 
 
-## Give Us a Star! ⭐⭐⭐
+## Give me a Star! ⭐⭐⭐
 If you found this helpful, please give the repository a star. It helps us to keep working on more useful scripts.
